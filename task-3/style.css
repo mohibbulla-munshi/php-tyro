@@ -1,0 +1,64 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.container {
+  width: 80%;
+  margin: auto;
+}
+h2 {
+  margin: 0px;
+}
+hr {
+  margin: 0px;
+}
+table {
+  margin-top: 20px;
+}
+
+/* Header-area */
+.header-area {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.right-area img {
+  width: 150px;
+  height: 180px;
+}
+
+/* Education Area */
+.education table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.education th {
+  padding: 15px;
+  border: 1px solid;
+}
+.education td {
+  padding: 15px;
+  border: 1px solid;
+}
+
+/* computer-skills */
+.computer-skills table {
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* personal-info */
+.personal-info table {
+  width: 60%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* copyright */
+.copyright p {
+  text-align: center;
+}
